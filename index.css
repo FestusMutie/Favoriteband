@@ -1,0 +1,32 @@
+h1{
+    color: maroon;
+    text-align: center;
+    text-shadow: mediumorchid;
+    border-style: dotted;
+
+}
+h2{
+    color: maroon;
+    text-align: left;
+    font-style: italic;
+}
+h3{
+    color: mediumblue;
+    text-align: left;
+}
+img{
+    height: 200;
+    width: 300;
+    display: inline;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+}
+*{
+    background-color:rgb(197, 180, 180);
+}
+
+
+
+
