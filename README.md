@@ -8,7 +8,9 @@ Essentially,all you need to do is just follow this link https://festusmutie.gith
 ## Known Bugs
 This site is not responsive
 ## Technologies Used
-HTML and CSS
+.HTML
+.CSS
+.Git
 ## Support and contact details
 Incase you need further assistance you can reach the developer via this email mutiefestus@gmail.com
 ### License
