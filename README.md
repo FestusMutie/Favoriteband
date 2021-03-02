@@ -1,5 +1,5 @@
 # The Maroon 5 band
-####  Website for my all time favourite band}, 28 March,2021
+####  Website for my all time favourite band, 28 March,2021
 #### By Festus Mutie
 ## Description
 This is a website specifically developed to showcase my favourite band journey in the music industry since it started in early 90s.In this website,you will find a list of the band members,their biographies and songs together with their links on youtube. 
